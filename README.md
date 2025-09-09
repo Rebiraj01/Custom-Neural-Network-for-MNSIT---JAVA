@@ -35,13 +35,6 @@ IDE (IntelliJ IDEA, Eclipse, NetBeans, or command line)
 
 MNIST dataset files (or your own images)
 
-Installation
-bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-Open the project in your Java IDE.
-All dependencies are standard Java libraries.
-
 Usage
 Training:
 
