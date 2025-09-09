@@ -74,19 +74,4 @@ Edit neural network parameters in Main.java (hiddenLayerNeurons, epochs, learnin
 
 Plug in new data formats by expanding utility classes
 
-Experiment with model architecture (layers, activation, etc.)
-
-Contributing
-Contributions and forks are welcome! Please open issues or pull requests for bugfixes, improvements, or new features.
-
-License
-MIT or specify your own.
-
-TODOs
-Add sample trained model and test images (optionally as releases/assets)
-
-Write unit tests for key functions
-
-Optional: Dockerfile for reproducible builds
-
-Feel free to copy, edit, and expand this README for your project specifics, screenshots, and contributor guidelines! If you want it personalized further (project name, screenshot/image, or more setup detail), let me know.
+Experiment with model architecture (layers, activation, etc.) within NeuralNetwork.java
